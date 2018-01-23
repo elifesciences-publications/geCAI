@@ -3,7 +3,7 @@ MCMC method for estimating geCAI codon weights from CDS and mRNA abundance data
 
 ## Running geCAI
 # USAGE:
- geCAI.pl -i <SEQUENCE_FILE> -e <EXPRESSION_FILE>
+`geCAI.pl -i <SEQUENCE_FILE> -e <EXPRESSION_FILE>`
 
 OPTIONS:
  -i <file>	FASTA format file containing multiple CDS sequences
