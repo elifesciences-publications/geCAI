@@ -2,10 +2,9 @@
 MCMC method for estimating geCAI codon weights from CDS and mRNA abundance data 
 
 ## Running geCAI
-# USAGE:
 `geCAI.pl -i <SEQUENCE_FILE> -e <EXPRESSION_FILE>`
 
-OPTIONS:
+`OPTIONS:
  -i <file>	FASTA format file containing multiple CDS sequences
  -e <file>	Tab-delimitted text file of abundance estimates for CDS
  -g <int>	Number of generations for MCMC [Default = 5000]
