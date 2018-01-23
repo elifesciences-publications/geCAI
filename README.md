@@ -13,6 +13,11 @@ OPTIONS:
  -w <file>	Specify staring codon weights [Defualt = random]
 ```
 
+## EXAMPLE FILES
+Package contains example sequence and mRNA files. To run geCAI on these files execute
+```
+geCAI.pl -i Example_Sequences.fasta -e Example_Expression_Data.txt
+```
 ## LICENSE:
  Distributed under the GNU General Public License (GPLv3). See License.md
 
