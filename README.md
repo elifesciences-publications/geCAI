@@ -1,9 +1,8 @@
 # geCAI
 MCMC method for estimating geCAI codon weights from CDS and mRNA abundance data 
 
-geCAI calculator version 1.0 Copyright (c) 2017 Steven Kelly
-
-USAGE:
+## Running geCAI
+# USAGE:
  geCAI.pl -i <SEQUENCE_FILE> -e <EXPRESSION_FILE>
 
 OPTIONS:
