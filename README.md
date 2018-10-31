@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from de Freitas Nascimento et al., "Codon choice directs constitutive mRNA levels in trypanosomes". eLife, 2018. http://dx.doi.org/10.7554/eLife.32467
+
+
 # geCAI
 MCMC method for estimating geCAI codon weights from CDS and mRNA abundance data 
 
